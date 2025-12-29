@@ -1,0 +1,104 @@
+{
+  "company": {
+    "name": "EAPRO Global",
+    "tagline": "Innovating Technology",
+    "certifications": [
+      "ISO 9001:2015",
+      "ISO 14001:2015"
+    ],
+    "founded": "2012",
+    "headquarters": "Roorkee, Uttarakhand, India"
+  },
+  "stats": {
+    "customers": "10 Million+ Satisfied Users Globally",
+    "dealers": "10,000+ Dealer Network",
+    "team": "700+ Team Strength",
+    "patents": "4 Granted, 4 Pending",
+    "countries": "20+ Countries Global Presence"
+  },
+  "products": {
+    "solar_modules": {
+      "name": "Solar PV Modules",
+      "range": "40W to 800W",
+      "types": [
+        "Mono PERC",
+        "Poly Crystalline",
+        "Bifacial"
+      ],
+      "features": [
+        "Higher Wattage Output",
+        "Higher Module Efficiency",
+        "Lower Electrical Losses",
+        "Higher Active Area Utilization"
+      ]
+    },
+    "on_grid_inverters": {
+      "name": "On-Grid Inverters",
+      "types": [
+        "Single Phase",
+        "Three Phase"
+      ],
+      "features": [
+        "MPPT Technology",
+        "Smart Grid Ready",
+        "Remote Monitoring"
+      ]
+    },
+    "off_grid_inverters": {
+      "name": "Off-Grid Inverters",
+      "types": [
+        "Pure Sine Wave",
+        "Modified Sine Wave",
+        "Hybrid"
+      ],
+      "features": [
+        "Pure Sine Wave Output",
+        "Smart Charging",
+        "LCD Display"
+      ]
+    },
+    "batteries": {
+      "name": "Solar Tubular Batteries",
+      "types": [
+        "Lead Acid",
+        "Tubular",
+        "Lithium-ion"
+      ],
+      "features": [
+        "Long Life",
+        "Deep Cycle",
+        "Low Maintenance"
+      ]
+    }
+  },
+  "key_messages": {
+    "primary": "POWERING INDIA - MADE IN INDIA, DESIGNED IN INDIA",
+    "secondary": "Smart Solar Solutions for Every Home",
+    "values": [
+      "Quality",
+      "Innovation",
+      "Reliability",
+      "Made in India"
+    ]
+  },
+  "strengths": [
+    "Industry Leading R&D",
+    "Advanced Technology (AI, IoT, MPPT, Smart Grid)",
+    "Manufacturing Power",
+    "Quality Assurance",
+    "After Sales Support"
+  ],
+  "services": [
+    "OEM Services",
+    "ODM Services",
+    "Domestic Distribution",
+    "Export Services",
+    "Installation Support",
+    "After Sales Service"
+  ],
+  "contact": {
+    "corporate": "Corporate Tower, Roorkee, Uttarakhand",
+    "industrial": "Industrial Area, Roorkee, Uttarakhand",
+    "email": "info@eapro.in"
+  }
+}
